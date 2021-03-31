@@ -9,4 +9,4 @@ What: Connect the html created questions with javascript
 how: import them using, systemprintouts, importing, loops, and classes
 why: in order to get the user to be able to complete the assessment efficiently.
 
-
+![Alt text](https://github.com/Forresterjamie01/Jamie-Code-Quiz/blob/main/Screenshot/Screen%20Shot%202021-03-31%20at%202.55.41%20AM.png "ScreenShot")
